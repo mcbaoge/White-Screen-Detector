@@ -8,4 +8,4 @@ White Screen Detector 是一个用于检测屏幕上纯白像素的简单工具�
 
 ## 许可证
 
-这个项目基于 MIT 许可证。
+这个项目基于 MIT 许可证。详情查看 [许可证](https://github.com/mcbaoge/White-Screen-Detector/blob/main/LICENSE)
